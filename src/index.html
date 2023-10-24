@@ -201,6 +201,7 @@
           <td>Margot Hassan</td>
           <td><img src="./img/edit.png" alt="edit" class="edit"></td>
           <td><img src="./img/trash.png" alt="trash" class="trash"></td>
+        </tr>
         <tr id="#num_13">
           <td>13</td>
           <td>Deborah Aaron</td>
@@ -274,6 +275,18 @@
           <td><img src="./img/edit.png" alt="edit" class="edit"></td>
           <td><img src="./img/trash.png" alt="trash" class="trash"></td>
         </tr>
+        <tr id="#num_19">
+          <td>19</td>
+          <td>Angela Christopher</td>
+          <td>David Elias</td>
+          <td>HUMAN</td>
+          <td>Richard Elias</td>
+          <td>Faith Andrew</td>
+          <td>Angela Christopher</td>
+          <td>David Elias</td>
+          <td><img src="./img/edit.png" alt="edit" class="edit"></td>
+          <td><img src="./img/trash.png" alt="trash" class="trash"></td>
+        </tr>
         <tr id="#num_20">
           <td>20</td>
           <td>Deborah Aaron</td>
@@ -289,6 +302,86 @@
       </tbody>
     </table>
   </article>
+
+  <section class="new_acount" id="id_new_acount">
+      <div class="section-title">
+        <h2 class="section-title__position">Create new acount:</h2>
+      </div>
+      <form
+        action="#"
+        class="form"
+        method="post"
+        onsubmit="this.reset(); return false;"
+      >
+        <input
+          class="form__input"
+          type="text"
+          placeholder="Name"
+          required
+          autocomplete="given-name"
+        >
+
+        <input
+          class="form__input"
+          type="text"
+          autocomplete="Title"
+          name="Title"
+          placeholder="Title"
+          required
+        >
+        
+        <input
+          class="form__input"
+          type="text"
+          autocomplete="Race"
+          name="Race"
+          placeholder="Race"
+          required
+        >
+
+        <input
+          class="form__input"
+          type="text"
+          autocomplete="Profession"
+          name="Profession"
+          placeholder="Profession"
+          required
+        >
+
+        <input
+          class="form__input"
+          type="text"
+          autocomplete="Level"
+          name="Level"
+          placeholder="Level"
+          required
+        >
+
+        <input
+          class="form__input"
+          type="date"
+          autocomplete="Birthday"
+          name="Birthday"
+          placeholder="Birthday"
+          required
+        >
+
+        <select 
+          class="form__input"
+        >
+          <option value="false">false</option>
+          <option value="true">true</option>
+        </select>
+          
+        <button
+        class="button_submit button--link"
+        type="submit"
+        >
+          SEND
+        </button>
+      </form>
+    </div>
+  </section>
 
   <script src="index.js"></script>
 </body>

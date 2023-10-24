@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const content = document.querySelector('.content'); 
-  let itemsPerPage = 1;
+  let itemsPerPage = 3;
   let currentPage = 0;
   const items = Array.from(content.getElementsByTagName('tr')).slice(1);
 
