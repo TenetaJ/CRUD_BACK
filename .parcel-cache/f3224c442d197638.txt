@@ -32,7 +32,7 @@
 84C:\frontend\maket_practic\forPavel\node_modules\css-tree\lib\syntax\node\Brackets.js121436361000000000 0
 64C:\frontend\maket_practic\forPavel\node_modules\has-flag\license121436361000000000 0
 79C:\frontend\maket_practic\forPavel\node_modules\@parcel\workers\src\cpuCount.js121436361000000000 0
-39C:\frontend\maket_practic\forPavel\dist133426223340690743 1
+39C:\frontend\maket_practic\forPavel\dist133426231137077202 1
 79C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\regions\BS.js121436361000000000 0
 47C:\frontend\maket_practic\forPavel\node_modules133426215307324407 1
 60C:\frontend\maket_practic\forPavel\node_modules\@parcel\core133426215291119405 1
@@ -64,7 +64,7 @@
 52C:\frontend\maket_practic\forPavel\node_modules\.bin133426215297083824 1
 79C:\frontend\maket_practic\forPavel\node_modules\@swc\helpers\cjs\_ts_values.cjs121436361000000000 0
 71C:\frontend\maket_practic\forPavel\node_modules\node-addon-api\index.js121436361000000000 0
-49C:\frontend\maket_practic\forPavel\src\index.html133425531763773805 0
+49C:\frontend\maket_practic\forPavel\src\index.html133426230356941497 0
 73C:\frontend\maket_practic\forPavel\node_modules\@parcel\packager-html\src133426215163129753 1
 67C:\frontend\maket_practic\forPavel\node_modules\type-fest\base.d.ts121436361000000000 0
 91C:\frontend\maket_practic\forPavel\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js121436361000000000 0
@@ -1888,7 +1888,7 @@
 99C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\features\css-container-queries.js121436361000000000 0
 79C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\regions\MU.js121436361000000000 0
 105C:\frontend\maket_practic\forPavel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest6.c121436361000000000 0
-57C:\frontend\maket_practic\forPavel\dist\index.076bf821.js133426223340610173 0
+57C:\frontend\maket_practic\forPavel\dist\index.076bf821.js133426231136993710 0
 99C:\frontend\maket_practic\forPavel\node_modules\@swc\helpers\_\_create_for_of_iterator_helper_loose133426215250566897 1
 104C:\frontend\maket_practic\forPavel\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\tooltag121436361000000000 0
 61C:\frontend\maket_practic\forPavel\node_modules\chalk\license121436361000000000 0
@@ -2716,7 +2716,7 @@
 69C:\frontend\maket_practic\forPavel\node_modules\chalk\source\index.js121436361000000000 0
 71C:\frontend\maket_practic\forPavel\node_modules\@parcel\packager-js\src133426215183634724 1
 77C:\frontend\maket_practic\forPavel\node_modules\@parcel\profiler\src\index.js121436361000000000 0
-62C:\frontend\maket_practic\forPavel\dist\index.49b9992f.css.map133426223340680766 0
+62C:\frontend\maket_practic\forPavel\dist\index.49b9992f.css.map133426231137065557 0
 65C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data133426215253349084 1
 65C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\dist133426215273849462 1
 84C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\features\webhid.js121436361000000000 0
@@ -3037,7 +3037,7 @@
 90C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\features\do-not-track.js121436361000000000 0
 100C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\features\document-currentscript.js121436361000000000 0
 101C:\frontend\maket_practic\forPavel\node_modules\@swc\helpers\_\_class_private_method_set\package.json121436361000000000 0
-57C:\frontend\maket_practic\forPavel\dist\edit.ed58d580.png133426223326012822 0
+57C:\frontend\maket_practic\forPavel\dist\edit.ed58d580.png133426231115913553 0
 101C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\features\document-evaluate-xpath.js121436361000000000 0
 98C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\features\document-execcommand.js121436361000000000 0
 93C:\frontend\maket_practic\forPavel\node_modules\caniuse-lite\data\features\document-policy.js121436361000000000 0
@@ -4385,7 +4385,7 @@
 75C:\frontend\maket_practic\forPavel\node_modules\.bin\update-browserslist-db133426215296701666 0
 79C:\frontend\maket_practic\forPavel\node_modules\.bin\update-browserslist-db.cmd133426215296701666 0
 79C:\frontend\maket_practic\forPavel\node_modules\.bin\update-browserslist-db.ps1133426215296701666 0
-61C:\frontend\maket_practic\forPavel\dist\index.076bf821.js.map133426223340680766 0
-58C:\frontend\maket_practic\forPavel\dist\index.49b9992f.css133426223340610173 0
-50C:\frontend\maket_practic\forPavel\dist\index.html133426223340610173 0
-58C:\frontend\maket_practic\forPavel\dist\trash.ba69ac3a.png133426223334542523 0
+61C:\frontend\maket_practic\forPavel\dist\index.076bf821.js.map133426231137065557 0
+58C:\frontend\maket_practic\forPavel\dist\index.49b9992f.css133426231136993710 0
+50C:\frontend\maket_practic\forPavel\dist\index.html133426231136993710 0
+58C:\frontend\maket_practic\forPavel\dist\trash.ba69ac3a.png133426231133363651 0
