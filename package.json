@@ -1,26 +1,11 @@
 {
   "name": "forPavel",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "parcel": "^2.10.0"
-  },
-  "devDependencies": {},
+  "source": "src/index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel",
-    "build": "parcel build"
+    "start": "parcel --open",
+    "build": "parcel build --public-url=/dist/"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/TenetaJ/CRUD_BACK.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/TenetaJ/CRUD_BACK/issues"
-  },
-  "homepage": "https://github.com/TenetaJ/CRUD_BACK#readme"
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
 }

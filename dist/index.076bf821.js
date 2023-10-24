@@ -1,0 +1,4 @@
+document.addEventListener("DOMContentLoaded",function(){let e=document.querySelector(".content"),t=3,n=0,i=Array.from(e.getElementsByTagName("tr")).slice(1);function l(e){let n=e*t,l=n+t;i.forEach((e,t)=>{e.classList.toggle("hidden",t<n||t>=l)}),a()}function a(){let e=document.querySelectorAll(".pagination button");e.forEach((e,t)=>{t===n?e.classList.add("active"):e.classList.remove("active")})}let c=document.getElementById("count_per_page");c.addEventListener("change",function(){t=parseInt(this.value),l(n),d()});// Створюємо контейнер для пагінації
+let o=document.createElement("div");function d(){let e=Math.ceil(i.length/t);for(;o.firstChild;)o.removeChild(o.firstChild);for(let t=0;t<e;t++){let e=document.createElement("button");e.textContent=t+1,e.addEventListener("click",()=>{l(n=t),a()}),o.appendChild(e)}}o.classList.add("pagination"),e.appendChild(o),d(),l(n)});//# sourceMappingURL=index.076bf821.js.map
+
+//# sourceMappingURL=index.076bf821.js.map
