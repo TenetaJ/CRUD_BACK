@@ -1,0 +1,134 @@
+body {
+  text-align: center;
+  margin-top: 0;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  flex-direction: column;
+  align-items: start;
+  width: 500px;
+  padding-left: 100px;
+  display: flex;
+}
+
+.rpg {
+  size: 32px;
+}
+
+.trash {
+  width: 67px;
+  height: 63px;
+}
+
+.edit {
+  width: 63px;
+  height: 70px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 20px;
+}
+
+th, td {
+  text-align: center;
+  border: 2px solid #000;
+  padding: 8px;
+}
+
+th {
+  background-color: #f7f7f7;
+  border-width: 2px 2px 0;
+}
+
+.content {
+  margin: 20px;
+}
+
+.pagination {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.pagination button {
+  cursor: pointer;
+  border: none;
+  border-radius: 1px;
+  outline: 1px solid #494a4f;
+  width: 35px;
+  height: 35px;
+  margin: 0 5px;
+  padding: 5px 10px;
+}
+
+.hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  white-space: nowrap;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+  overflow: hidden;
+}
+
+.pagination button.active {
+  color: #fff;
+  background-color: #007bff;
+}
+
+.form {
+  flex-direction: column;
+  flex-basis: max-content;
+  justify-content: center;
+  gap: 16px;
+  width: 100%;
+  padding: 0;
+  display: flex;
+}
+
+.form__input {
+  box-sizing: border-box;
+  background-color: #f5f5f6;
+  border: none;
+  border-radius: 40px;
+  outline: none;
+  width: 350px;
+  min-width: 280px;
+  height: 50px;
+  margin: 0 auto;
+  padding-left: 16px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 48px;
+  transition: transform .5s;
+}
+
+.form__input:hover {
+  transform: scale(1.1);
+}
+
+.form__input:hover::placeholder {
+  color: #292929;
+}
+
+.button_submit {
+  border: none;
+  border-radius: 40px;
+  width: 350px;
+  height: 40px;
+  margin: auto;
+  font-size: 20px;
+  transition: transform .5s;
+}
+
+.button_submit:hover {
+  transform: scale(1.1);
+}
+
+.new_acount {
+  width: 500px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */
